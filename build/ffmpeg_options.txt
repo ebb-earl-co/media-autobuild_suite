@@ -8,16 +8,14 @@
 --disable-debug
 
 # Zeranoe
---enable-libopenjpeg
 
 # Full
---enable-libplacebo
 
 # Full plus options that add shared dependencies
-# --enable-libopenh264
 
 # tidal-wave spcifications
 --disable-everything
+--disable-shared
 --disable-doc
 --disable-htmlpages
 --disable-podpages
